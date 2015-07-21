@@ -862,3 +862,18 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+/* CUSTOMISATIONS */
+
+.intro-div {
+    background-color:rgba(0, 0, 0, 0.67); 
+    padding: 10px; 
+    max-width: 700px; 
+    margin: auto; 
+    margin-bottom: 50px; 
+    text-align: justify;
+}
+
+.intro-para {
+    font-size: 1.1em;
+}
